@@ -1,14 +1,14 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
+    "password": "luciludavid",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "luciludavid.aternos.me",
+    "port": 18218,
+    "version": "1.21.5"
   },
 
   "position": {
